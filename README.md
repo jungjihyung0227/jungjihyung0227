@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jungjihyung0227&theme=gruvbox" />
+</a><br><br>
 
 <!--
 **jungjihyung0227/jungjihyung0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
